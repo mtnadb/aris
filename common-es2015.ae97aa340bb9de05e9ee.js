@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexample=self.webpackChunkexample||[]).push([[592],{78434:function(e,n,t){t.d(n,{o:function(){return r}});var u=t(38583),c=t(37716);let r=(()=>{class e{}return e.\u0275fac=function(n){return new(n||e)},e.\u0275mod=c.oAB({type:e}),e.\u0275inj=c.cJS({imports:[[u.ez]]}),e})()}}]);
